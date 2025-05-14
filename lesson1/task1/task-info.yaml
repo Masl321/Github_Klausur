@@ -1,0 +1,11 @@
+type: edu
+files:
+  - name: src/PrimeNumbers.java
+    visible: true
+    placeholders:
+      - offset: 118
+        length: 165
+        placeholder_text: /* TODO */ throw new UnsupportedOperationException();
+  - name: test/Tests.java
+    visible: false
+    propagatable: false

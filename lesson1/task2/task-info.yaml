@@ -1,0 +1,11 @@
+type: edu
+files:
+  - name: src/CountLetters.java
+    visible: true
+    placeholders:
+      - offset: 149
+        length: 141
+        placeholder_text: throw new UnsupportedOperationException();
+  - name: test/Tests.java
+    visible: false
+    propagatable: false
